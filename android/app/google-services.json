@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777536017624",
+    "project_id": "proton-b3fb4",
+    "storage_bucket": "proton-b3fb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777536017624:android:425bb7449a99172fd473ad",
+        "android_client_info": {
+          "package_name": "com.protonpushcli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV5byWgedwVaj1cEoQHlQf151sog4fYVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777536017624:android:65e080ccdac6e8a7d473ad",
+        "android_client_info": {
+          "package_name": "com.protonreactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV5byWgedwVaj1cEoQHlQf151sog4fYVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
